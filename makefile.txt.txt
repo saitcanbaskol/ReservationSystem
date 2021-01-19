@@ -1,0 +1,2 @@
+g++ ReservationSystem.cpp Reservation.cpp Flight.cpp -o ReservationSystem
+./ReservationSystem
